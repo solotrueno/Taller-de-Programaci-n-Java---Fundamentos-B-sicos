@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class ContadorParesImpares {
 
-    // Función para contar pares e impares
     public static void contarParesImpares() {
         Scanner leer = new Scanner(System.in);
 
